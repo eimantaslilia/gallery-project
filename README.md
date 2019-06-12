@@ -43,4 +43,4 @@ Throughout this project I solidified my knowledge about Spring Boot and other Sp
 
 
 ## Contact
-If you are interested in trying out the project, feel free to message me at eimantas.lilia@gmail.com and I will provide you with login details.
+If you are interested in trying out the project, feel free to send me a message through my [website](https://eimantaslilia.herokuapp.com/) and I will provide you the login details.

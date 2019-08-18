@@ -1,4 +1,4 @@
-# [Gallery - a web app for sharing images](http://gallery.eu-west-2.elasticbeanstalk.com/)
+# Gallery - a web app for sharing images
 
 
 This is a web application made to showcase CRUD operations using REST on images.  
@@ -7,7 +7,7 @@ This is a web application made to showcase CRUD operations using REST on images.
 The users can collaborate on creating a gallery of pictures and share them with the world. 
 
 
-Live demo can be found [here](http://gallery.eu-west-2.elasticbeanstalk.com/).
+<strong>Note:</strong> The project is no longer hosted in favor of hosting the E-Commerce Bookstore project using the AWS Free Tier.
 
 ## About the Project
 
@@ -43,4 +43,4 @@ Throughout this project I solidified my knowledge about Spring Boot and other Sp
 
 
 ## Contact
-If you are interested in trying out the project, feel free to send me a message through my [website](https://eimantaslilia.herokuapp.com/) and I will provide you the login details.
+If you have any questions, feel free to contact me on my [website](https://eimantaslilia.herokuapp.com/).

@@ -9,7 +9,9 @@ The users can collaborate on creating a gallery of pictures and share them with 
 
 <strong>Note:</strong> The project is no longer hosted in favor of hosting the E-Commerce Bookstore project using the AWS Free Tier.
 
+![alt text](https://i.imgur.com/PFWq0oD.jpg)
 ## About the Project
+
 
 
 * The project is hosted on AWS Elastic Beanstalk.

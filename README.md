@@ -7,12 +7,12 @@ This is a web application made to showcase CRUD operations using REST on images.
 The users can collaborate on creating a gallery of pictures and share them with the world. 
 
 
-<strong>Note:</strong> The project is no longer hosted in favor of hosting the E-Commerce Bookstore project using the AWS Free Tier.
+
 
 ![alt text](https://i.imgur.com/PFWq0oD.jpg)
 ## About the Project
 
-
+<strong>Note:</strong> The project is no longer hosted in favor of hosting the E-Commerce Bookstore project using the AWS Free Tier.
 
 * The project is hosted on AWS Elastic Beanstalk.
 * The images are stored in a bucket using Amazon S3.
